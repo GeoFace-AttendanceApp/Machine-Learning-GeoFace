@@ -1,0 +1,8 @@
+# Ignore dataset folder
+Dataset/
+
+# Ignore archive folder
+archive (1)/
+
+# Ignore virtual environment
+env/
