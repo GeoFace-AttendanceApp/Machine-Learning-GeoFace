@@ -1,0 +1,8 @@
+# Gunakan LF secara konsisten untuk file teks
+* text=auto
+
+# Khusus Jupyter Notebook
+*.ipynb text eol=lf
+
+# Khusus kode Python
+*.py text eol=lf
